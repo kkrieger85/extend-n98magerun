@@ -1,0 +1,5 @@
+commands:
+  aliases:
+    - "cc": "cache:clean"
+    - "customer:create:kkrieger": "customer:create kk+magerun@kkrieger.de test1234 Kevin Krieger"
+    - "admin:create:kkrieger": "admin:user:create kkrieger kk+magerun@kkrieger.de test1234 Kevin Krieger"
